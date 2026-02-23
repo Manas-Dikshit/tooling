@@ -111,6 +111,8 @@ const PROPERTIES = [
 	"instanceof",
 
 	"tsType",
+
+	"deprecated",
 ];
 
 const processJson = processSchema.bind(null, {

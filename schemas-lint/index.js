@@ -50,6 +50,7 @@ for (const filename of schemas) {
 			"tsType",
 			"not",
 			"link",
+			"deprecated",
 		];
 
 		const isReference = (schema) => {
